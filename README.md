@@ -14,4 +14,4 @@ There are three datasets:
 There are three notebooks used to conduct experiments
 lstm_linguist_embedding.ipynb (Lexical Sequence + Word Embedding)
 lstm_hot_coding.ipynb (PosTag Sequence + One Hot encoding)
-lstm_hotcode_embedding.ipynb (Lex-POS Sequence + WEOE embedding
+lstm_hotcode_embedding.ipynb (Lex-POS Sequence + WEOE embedding)
