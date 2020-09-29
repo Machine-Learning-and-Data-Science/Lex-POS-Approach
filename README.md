@@ -1,0 +1,2 @@
+# Lex-POS-Approach
+Lex-Pos sequence has the potential to imbibe the specific nature of the linguistic words (i.e. lexicals) and generic structural characteristics of a sentence via Part-Of-Speech (POS) tags, and so, can lead to a significant improvement in detecting grammar errors. A new vector representation technique, Word Embedding One hot Encoding (WEOE) is introduced to transform Lex-POS into mathematical values.
